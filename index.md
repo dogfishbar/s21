@@ -1,5 +1,5 @@
 ---
-title: "CSCI 1101 Computer Science 1, Section 2
+title: "CSCI 1101 Computer Science 1, Section 2"
 ---
 
 ## Welcome to GitHub Pages
